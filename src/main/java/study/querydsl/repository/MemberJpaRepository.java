@@ -16,8 +16,6 @@ import static org.springframework.util.StringUtils.hasText;
 import static study.querydsl.entity.QMember.member;
 import static study.querydsl.entity.QTeam.team;
 
-;
-
 @Repository
 @RequiredArgsConstructor
 public class MemberJpaRepository {
